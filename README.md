@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=AliNasser05)
+
 I'm Ali, a Second-Year Engineering Student and Competitive Programmer.
 
 <h3 align="left">Connect with me:</h3>
